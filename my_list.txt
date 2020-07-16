@@ -1,0 +1,7 @@
+red
+blue
+green
+orange
+purple
+black
+white
